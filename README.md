@@ -1,6 +1,6 @@
 # The Scrum Guide (November 2020) in e-book format
 
-This repository contains an e-book (epub/mobi/azw3) version of the [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf).
+This repository contains an e-book (_epub/mobi/azw3_) version of the [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf).
 
 ## Procedure
 1. _PDF_ to _docx_ using MS Word
