@@ -3,7 +3,7 @@
 This repository contains an e-book (epub/mobi/azw3) version of the [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf).
 
 ## Procedure
-The PDF file was imported to Microsoft Word and saved in docx format. Then it was transformed to epub using [pandoc](https://pandoc.org/). Finally, it was imported in [Calibre](https://calibre-ebook.com/), was edited using calibre e-book editor, and was converted from ebup to mobi and azw3.
+The PDF file was imported to Microsoft Word and was saved in _docx_ format. Then it was transformed to _epub_ using [pandoc](https://pandoc.org/). Finally, it was imported in [Calibre](https://calibre-ebook.com/), was edited using calibre e-book editor, and was converted from _epub_ to _mobi_ and _azw3_.
 
 ## Downloads
 
