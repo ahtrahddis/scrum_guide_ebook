@@ -7,7 +7,7 @@ This repository contains an e-book (_epub/mobi/azw3_) version of the [Scrum Guid
 2. _docx_ to _epub_ using [pandoc](https://pandoc.org/)
 3. _epub_ editing and conversion to _mobi_ and _azw3_ using [Calibre](https://calibre-ebook.com/) 
 
-## Downloads (last updated on 2021-10-19)
+## Downloads (last updated on 2021-11-02)
 
 - [epub](https://github.com/archphile/scrum_guide_ebook/raw/main/2020-Scrum-Guide-US.epub)
 - [mobi](https://github.com/archphile/scrum_guide_ebook/raw/main/2020-Scrum-Guide-US.azw3)
